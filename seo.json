@@ -1,0 +1,2283 @@
+[
+    {
+        "name": "ThreeJS",
+        "label": "Three.js案例",
+        "examples": [
+            {
+                "pid": "friendStation",
+                "name": "开源导航",
+                "children": [
+                    {
+                        "id": "alwxkxk",
+                        "author": "alwxkxk",
+                        "name": "Three案例",
+                        "openUrl": "https://alwxkxk.github.io/threejs-example/",
+                        "githubUrl": "https://github.com/alwxkxk/threejs-example",
+                        "image": "https://z2586300277.github.io/3d-file-server/images/alwxkxk.jpg"
+                    },
+                    {
+                        "id": "jiawanlong",
+                        "tag": "推荐",
+                        "author": "jiawanlong",
+                        "name": "Cesium案例",
+                        "openUrl": "https://jiawanlong.github.io/examples/cesiumEx/examples.html",
+                        "githubUrl": "https://github.com/jiawanlong/Cesium-Examples",
+                        "image": "https://z2586300277.github.io/3d-file-server/images/jiawanlong.jpg"
+                    },
+                    {
+                        "id": "bosombaby",
+                        "author": "bosombaby",
+                        "name": "Three 案例",
+                        "openUrl": "https://product.vrteam.top/",
+                        "githubUrl": "https://github.com/bosombaby/web3d-product",
+                        "image": "https://z2586300277.github.io/3d-file-server/images/bosombaby.jpg"
+                    },
+                    {
+                        "id": "wuyifan0203",
+                        "author": "wuyifan0203",
+                        "name": "Three源码案例",
+                        "openUrl": "https://wuyifan0203.github.io/threejs-demo",
+                        "githubUrl": "https://github.com/wuyifan0203/threejs-demo",
+                        "image": "https://z2586300277.github.io/3d-file-server/images/wuyifan0203.jpg"
+                    },
+                    {
+                        "id": "dragonir",
+                        "author": "dragonir",
+                        "name": "Three 案例",
+                        "openUrl": "https://dragonir.github.io/3d",
+                        "githubUrl": "https://github.com/dragonir/3d",
+                        "image": "https://z2586300277.github.io/3d-file-server/images/dragonir.jpg"
+                    },
+                    {
+                        "id": "sxguojf",
+                        "author": "sxguojf",
+                        "name": "Three结合地图瓦片",
+                        "openUrl": "https://sxguojf.github.io/three-tile-example/",
+                        "githubUrl": "https://github.com/sxguojf/three-tile",
+                        "image": "https://z2586300277.github.io/3d-file-server/images/wangpengfei.jpg"
+                    },
+                    {
+                        "id": "pengfeiw",
+                        "author": "pengfeiw",
+                        "name": "3d 案例",
+                        "githubUrl": "https://github.com/pengfeiw/threejs-case",
+                        "openUrl": "https://pengfeiw.github.io/minicode/",
+                        "image": "http://127.0.0.1:5500/threeExamples/openSource/wangpengfei.jpg"
+                    },
+                    {
+                        "id": "lpya",
+                        "author": "lpya",
+                        "name": "vue Three案例",
+                        "openUrl": "https://lpya.github.io/vue2-threejs-sefficacy",
+                        "githubUrl": "https://github.com/lpya/vue2-threejs-sefficacy",
+                        "image": "https://z2586300277.github.io/3d-file-server/images/lpya.jpg"
+                    },
+                    {
+                        "id": "zhengjie9510",
+                        "author": "zhengjie9510",
+                        "name": "Cesium案例",
+                        "openUrl": "https://zhengjie9510.github.io/webgis-demo",
+                        "githubUrl": "https://github.com/zhengjie9510/webgis-demo",
+                        "image": "https://z2586300277.github.io/3d-file-server/images/zhengjie9510.jpg"
+                    },
+                    {
+                        "id": "sketchThree",
+                        "author": "AUTO",
+                        "name": "Three特效",
+                        "openUrl": "https://ykob.github.io/sketch-threejs/",
+                        "githubUrl": "https://github.com/ykob/sketch-threejs",
+                        "image": "https://z2586300277.github.io/3d-file-server/images/sketchThree.jpg"
+                    }
+                ]
+            },
+            {
+                "pid": "advancedExamples",
+                "name": "高级案例",
+                "children": [
+                    {
+                        "id": "taohuating",
+                        "name": "桃花亭",
+                        "author": "huan_meng_hai_yan",
+                        "openUrl": "https://z2586300277.github.io/show-site/TaoHuaTing",
+                        "downloadUrl": "https://z2586300277.github.io/show-site/TaoHuaTing/TaoHuaTing.zip",
+                        "image": "http://127.0.0.1:5500/threeExamples/openSource/taohuating.jpg"
+                    },
+                    {
+                        "id": "ziTengHua",
+                        "name": "紫藤花",
+                        "author": "huan_meng_hai_yan",
+                        "openUrl": "https://g2657.github.io/examples-server/ziTenghua/",
+                        "downloadUrl": "https://g2657.github.io/examples-server/ziTenghua/ziTenghua.zip",
+                        "image": "http://127.0.0.1:5500/threeExamples/openSource/ziTengHua.jpg"
+                    },
+                    {
+                        "id": "3dEarth",
+                        "name": "3D地球",
+                        "author": "RainManGO",
+                        "openUrl": "https://z2586300277.github.io/show-site/3dEarth/",
+                        "githubUrl": "https://github.com/RainManGO/3d-earth",
+                        "image": "https://z2586300277.github.io/3d-file-server/images/3dEarth.png"
+                    },
+                    {
+                        "id": "3dEarth2",
+                        "name": "虚幻地球",
+                        "author": "GhostCatcg",
+                        "openUrl": "https://z2586300277.github.io/show-site/3dEarth2/",
+                        "githubUrl": "https://github.com/GhostCatcg/3d-earth",
+                        "image": "http://127.0.0.1:5500/threeExamples/openSource/3dEarth2.jpg"
+                    },
+                    {
+                        "id": "3dPointsModel",
+                        "name": "3D点云模型",
+                        "author": "youngdro",
+                        "openUrl": "https://g2657.github.io/examples-server/3DPoints/",
+                        "githubUrl": "https://github.com/youngdro/3DPoints",
+                        "image": "http://127.0.0.1:5500/threeExamples/openSource/3dPointsModel.jpg",
+                        "downloadUrl": "https://g2657.github.io/examples-server/3DPoints/3DPoints.zip"
+                    },
+                    {
+                        "id": "threePerson",
+                        "name": "第三人称控制",
+                        "author": "z2586300277",
+                        "referUrl": "https://github.com/simondevyoutube/ThreeJS_Tutorial_ThirdPersonCamera",
+                        "openUrl": "https://g2657.github.io/examples-server/thirdPerson/",
+                        "githubUrl": "https://github.com/simondevyoutube/ThreeJS_Tutorial_ThirdPersonCamera",
+                        "image": "https://g2657.github.io/examples-server/thirdPerson/thirdPerson.jpg",
+                        "downloadUrl": "https://g2657.github.io/examples-server/thirdPerson/thirdPerson.zip"
+                    },
+                    {
+                        "id": "smartCity",
+                        "name": "智慧城市特效",
+                        "author": "193Eric",
+                        "openUrl": " https://g2657.github.io/examples-server/smartCity/demo/",
+                        "githubUrl": "https://github.com/193Eric/threejs-demo",
+                        "downloadUrl": "https://g2657.github.io/examples-server/smartCity/smartCity.zip",
+                        "image": "http://127.0.0.1:5500/threeExamples/openSource/smartCity.jpg"
+                    },
+                    {
+                        "id": "3dGeoMap",
+                        "name": "3D地图",
+                        "author": "xiaogua-bushigua",
+                        "githubUrl": "https://github.com/xiaogua-bushigua/3d-geoMap",
+                        "openUrl": "https://z2586300277.github.io/show-site/3dGeoMap",
+                        "image": "https://z2586300277.github.io/3d-file-server/images/3dGeoMap.jpg",
+                        "links": [
+                            {
+                                "name": "📺B站",
+                                "url": "https://www.bilibili.com/video/BV1ku4y1X7wU/"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "kallkago_su7",
+                        "tag": "热门-#5f9be3",
+                        "name": "su7-R3f",
+                        "author": "KallkaGo",
+                        "openUrl": "https://z2586300277.github.io/show-site/su7_demo/",
+                        "githubUrl": "https://github.com/KallkaGo/su7-demo",
+                        "image": "http://127.0.0.1:5500/threeExamples/openSource/kallkago_su7.jpg"
+                    },
+                    {
+                        "id": "su7peng",
+                        "name": "SU7-Vue3",
+                        "author": "Pong-lei",
+                        "openUrl": "https://g2657.github.io/examples-server/su7_2/",
+                        "githubUrl": "https://github.com/Pong-lei/su7_imitate",
+                        "image": "http://127.0.0.1:5500/threeExamples/openSource/su7peng.jpg"
+                    },
+                    {
+                        "id": "su7_three",
+                        "name": "原生su7",
+                        "author": "ASouthernCat",
+                        "openUrl": "https://z2586300277.github.io/show-site/su7_car/",
+                        "githubUrl": "https://github.com/ASouthernCat/Porsche911-carshow-threejs",
+                        "image": "http://127.0.0.1:5500/threeExamples/openSource/su7_three.jpg",
+                        "links": [
+                            {
+                                "name": "📺BiBi",
+                                "url": "https://www.bilibili.com/video/BV1JH4y1N7pT"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "feng_ji",
+                        "name": "风机",
+                        "author": "AUTO",
+                        "openUrl": "https://fengtianxi001.github.io/MF-TurbineMonitor",
+                        "githubUrl": "https://github.com/fengtianxi001/MF-TurbineMonitor",
+                        "image": "https://z2586300277.github.io/3d-file-server/images/fengji.jpg"
+                    },
+                    {
+                        "id": "z2586300277_3d_editor",
+                        "tag": "编辑器-#795cddba",
+                        "name": "低代码组态编辑器",
+                        "author": "z2586300277",
+                        "openUrl": "https://z2586300277.github.io/three-editor/dist/#/editor",
+                        "githubUrl": "https://github.com/z2586300277/three-editor",
+                        "image": "https://z2586300277.github.io/3d-file-server/images/editor.jpg",
+                        "links": [
+                            {
+                                "name": "📖CSDN",
+                                "url": "https://blog.csdn.net/guang2586/article/details/142910241"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "roaming",
+                        "author": "AUTO",
+                        "name": "漫游模拟器",
+                        "githubUrl": "https://github.com/Junhong-Chen/roaming-simulator",
+                        "openUrl": "https://junhong-chen.github.io/roaming-simulator/",
+                        "image": "http://127.0.0.1:5500/threeExamples/openSource/roaming.jpg"
+                    }
+                ]
+            },
+            {
+                "gid": "effectGroup",
+                "group": "三维特效",
+                "pid": "shader",
+                "name": "着色器",
+                "children": [
+                    {
+                        "id": "modelBlendShader",
+                        "name": "模型混合着色器",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/modelBlendShader.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/modelBlendShader.jpg",
+                        "meta": {
+                            "title": "模型混合着色器",
+                            "keywords": "three.js,模型混合着色器",
+                            "description": "使用three.js模型混合着色器"
+                        }
+                    },
+                    {
+                        "id": "grassShader",
+                        "name": "草地着色器",
+                        "author": "Siricee",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/grassShader.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/grassShader.jpg",
+                        "meta": {
+                            "title": "草地着色器",
+                            "keywords": "three.js,草地着色器",
+                            "description": "使用three.js草地着色器"
+                        }
+                    },
+                    {
+                        "id": "textStarShader",
+                        "name": "点星感谢",
+                        "tag": "致谢",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/textStarShader.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/textStarShader.jpg"
+                    },
+                    {
+                        "id": "fenceShader",
+                        "name": "围栏着色器",
+                        "author": "flowers-10",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/fenceShader.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/fenceShader.jpg",
+                        "meta": {
+                            "title": "围栏着色器",
+                            "keywords": "three.js,围栏着色器",
+                            "description": "使用three.js围栏着色器"
+                        }
+                    },
+                    {
+                        "id": "raningSea",
+                        "name": "波涛海浪",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/raningSea.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/raningSea.jpg"
+                    },
+                    {
+                        "id": "fenceWall",
+                        "name": "围墙着色器",
+                        "author": "yjsdszz",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/fenceWall.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/fenceWall.jpg",
+                        "meta": {
+                            "title": "围墙着色器",
+                            "keywords": "three.js,围墙着色器",
+                            "description": "使用three.js围墙着色器"
+                        }
+                    },
+                    {
+                        "id": "cityMoveLight",
+                        "name": "智慧城市扫光",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/cityMoveLight.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/cityMoveLight.jpg",
+                        "meta": {
+                            "title": "智慧城市扫光",
+                            "keywords": "three.js,智慧城市扫光",
+                            "description": "使用three.智慧城市扫光"
+                        }
+                    },
+                    {
+                        "id": "shaderSky",
+                        "name": "着色器天空",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/shaderSky.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/shaderSky.jpg",
+                        "meta": {
+                            "title": "着色器天空",
+                            "keywords": "three.js,着色器天空",
+                            "description": "使用three.js着色器天空"
+                        }
+                    },
+                    {
+                        "id": "cityLine",
+                        "name": "城市线条",
+                        "author": "superzay",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/cityLine.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/cityLine.jpg",
+                        "meta": {
+                            "title": "城市线条",
+                            "keywords": "three.js,城市线条",
+                            "description": "使用three.js城市线条"
+                        }
+                    },
+                    {
+                        "id": "wallShader",
+                        "name": "扩散圆墙",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/wallShader.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/wallShader.jpg",
+                        "meta": {
+                            "title": "扩散圆墙",
+                            "keywords": "three.js,扩散圆墙",
+                            "description": "使用three.js扩散圆墙"
+                        }
+                    },
+                    {
+                        "id": "radarShader",
+                        "name": "雷达着色器",
+                        "author": "stonerao",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/radarShader.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/radarShader.jpg",
+                        "meta": {
+                            "title": "雷达着色器",
+                            "keywords": "three.js,雷达着色器",
+                            "description": "使用three.雷达着色器"
+                        }
+                    },
+                    {
+                        "id": "candleShader",
+                        "name": "蜡烛",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/candleShader.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/candleShader.jpg"
+                    },
+                    {
+                        "id": "ringShader",
+                        "name": "环形着色器",
+                        "author": "stonerao",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/ringShader.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/ringShader.jpg",
+                        "meta": {
+                            "title": "环形着色器",
+                            "keywords": "three.js,环形着色器",
+                            "description": "使用three.js环形着色器"
+                        }
+                    },
+                    {
+                        "id": "smokeCircle",
+                        "name": "圆泡吸附",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/smokeCircle.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/smokeCircle.jpg"
+                    },
+                    {
+                        "id": "imageParticle",
+                        "name": "颗粒图像",
+                        "author": "superzay",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/imageParticle.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/imageParticle.jpg",
+                        "meta": {
+                            "title": "颗粒图像",
+                            "keywords": "three.js,颗粒图像",
+                            "description": "使用three.js颗粒图像"
+                        }
+                    },
+                    {
+                        "id": "gaussianBlur",
+                        "name": "高斯模糊",
+                        "author": "hafly",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/gaussianBlur.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/gaussianBlur.jpg",
+                        "meta": {
+                            "title": "高斯模糊",
+                            "keywords": "three.js,高斯模糊",
+                            "description": "使用three.js高斯模糊"
+                        }
+                    },
+                    {
+                        "id": "halfCircle",
+                        "name": "半圆",
+                        "author": "yiiiiiiqianyao",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/halfCircle.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/halfCircle.jpg",
+                        "meta": {
+                            "title": "半圆",
+                            "keywords": "three.js,半圆",
+                            "description": "使用three.js半圆"
+                        }
+                    },
+                    {
+                        "id": "vortexShader",
+                        "name": "扭曲",
+                        "author": "hafly",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/vortexShader.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/vortexShader.jpg"
+                    },
+                    {
+                        "id": "ringsShader",
+                        "name": "环彩虹着色器",
+                        "author": "stonerao",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/ringsShader.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/ringsShader.jpg"
+                    },
+                    {
+                        "id": "heatmapShader",
+                        "name": "热力图",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/heatmapShader.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/heatmapShader.jpg"
+                    },
+                    {
+                        "id": "videoShader",
+                        "name": "视频着色器",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/videoShader.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/videoShader.jpg",
+                        "meta": {
+                            "title": "视频着色器",
+                            "keywords": "three.js,视频着色器",
+                            "description": "使用three.js视频着色器"
+                        }
+                    },
+                    {
+                        "id": "steamWaveSun",
+                        "name": "蒸汽波太阳",
+                        "author": "xzw199509",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/steamWaveSun.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/steamWaveSun.jpg",
+                        "meta": {
+                            "title": "蒸汽波太阳",
+                            "keywords": "three.js,蒸汽波太阳",
+                            "description": "使用three.js蒸汽波太阳"
+                        }
+                    },
+                    {
+                        "id": "groundglass",
+                        "name": "毛玻璃",
+                        "author": "z2586300277",
+                        "referUrl": "https://github.com/hafly",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/groundglass.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/groundglass.jpg"
+                    },
+                    {
+                        "id": "cobwebBox",
+                        "name": "蛛网箱子",
+                        "author": "xzw199509",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/cobwebBox.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/cobwebBox.jpg",
+                        "meta": {
+                            "title": "蛛网箱子",
+                            "keywords": "three.js,蛛网箱子",
+                            "description": "使用three.js蛛网箱子"
+                        }
+                    },
+                    {
+                        "id": "chinaFlag",
+                        "name": "中国旗帜",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/chinaFlag.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/chinaFlag.jpg"
+                    },
+                    {
+                        "id": "rasterGrid",
+                        "name": "栅格网格",
+                        "author": "yjsdszz",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/rasterGrid.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/rasterGrid.jpg",
+                        "meta": {
+                            "title": "栅格网格",
+                            "keywords": "three.js,栅格网格",
+                            "description": "使用three.js栅格网格"
+                        }
+                    },
+                    {
+                        "id": "flowLight",
+                        "name": "流光",
+                        "author": "yjsdszz",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/flowLight.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/flowLight.jpg",
+                        "meta": {
+                            "title": "流光",
+                            "keywords": "three.js,流光",
+                            "description": "使用three.js流光"
+                        }
+                    },
+                    {
+                        "id": "grayShader",
+                        "name": "灰度",
+                        "author": "z2586300277",
+                        "referUrl": "https://github.com/hafly",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/grayShader.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/grayShader.jpg"
+                    },
+                    {
+                        "id": "audioSolutions",
+                        "tag": "声音",
+                        "name": "音乐可视化",
+                        "author": "flowers-10",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/audioSolutions.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/audioSolutions.jpg",
+                        "meta": {
+                            "title": "音乐可视化",
+                            "keywords": "three.js,音乐可视化",
+                            "description": "使用three.js音乐可视化"
+                        }
+                    },
+                    {
+                        "id": "waveShader",
+                        "name": "图像波动",
+                        "author": "gitee18247670551",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/waveShader.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/waveShader.jpg",
+                        "meta": {
+                            "title": "图像波动",
+                            "keywords": "three.js,图像波动",
+                            "description": "使用three.js图像波动"
+                        }
+                    },
+                    {
+                        "id": "dissolve",
+                        "name": "溶解",
+                        "author": "KallkaGo",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/dissolve.js",
+                        "image": "https://z2586300277.github.io/3d-file-server/images/dissolve/dissolve.png",
+                        "meta": {
+                            "title": "溶解",
+                            "keywords": "three.js,溶解",
+                            "description": "溶解特效"
+                        }
+                    },
+                    {
+                        "id": "changeShaderToy",
+                        "name": "切换ShaderToy",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/changeShaderToy.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/changeShaderToy.jpg",
+                        "meta": {
+                            "title": "切换ShaderToy",
+                            "keywords": "three.js,切换ShaderToy",
+                            "description": "切换ShaderToy"
+                        }
+                    },
+                    {
+                        "id": "waterA",
+                        "name": "波浪效果",
+                        "author": "giser2017",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/waterA.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/waterA.jpg",
+                        "meta": {
+                            "title": "水效果",
+                            "keywords": "three.js,水效果",
+                            "description": "使用three水效果"
+                        }
+                    },
+                    {
+                        "id": "reliefImage",
+                        "name": "浮雕图像",
+                        "author": "hafly",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/reliefImage.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/reliefImage.jpg"
+                    },
+                    {
+                        "id": "flowerShader",
+                        "name": "花",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/flowerShader.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/flowerShader.jpg"
+                    },
+                    {
+                        "id": "dissolveAnimate",
+                        "name": "溶解动画",
+                        "author": "yiiiiiiqianyao",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/dissolveAnimate.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/dissolveAnimate.jpg",
+                        "meta": {
+                            "title": "溶解动画",
+                            "keywords": "three.js,溶解动画",
+                            "description": "使用three.js溶解动画"
+                        }
+                    },
+                    {
+                        "id": "imageShake",
+                        "name": "图片抖动",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/imageShake.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/imageShake.jpg",
+                        "meta": {
+                            "title": "图片抖动",
+                            "keywords": "three.js,图片抖动",
+                            "description": "使用three图片抖动"
+                        }
+                    },
+                    {
+                        "id": "heartShader",
+                        "name": "心",
+                        "author": "z2586300277",
+                        "referUrl": "https://github.com/xiaolidan00/my-earth?tab=readme-ov-file",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/heartShader.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/heartShader.jpg"
+                    },
+                    {
+                        "id": "shaderBlock",
+                        "name": "方块着色器",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/shaderBlock.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/shaderBlock.jpg",
+                        "meta": {
+                            "title": "方块着色器",
+                            "keywords": "three.js,方块着色器",
+                            "description": "使用three方块着色器"
+                        }
+                    },
+                    {
+                        "id": "fireball",
+                        "name": "火球效果",
+                        "author": "giser2017",
+                        "htmlUrl": "http://127.0.0.1:5500/threeExamples/shader/fireball.html",
+                        "image": "https://z2586300277.github.io/3d-file-server/images/four/fireball.png",
+                        "meta": {
+                            "title": "火球效果",
+                            "keywords": "three.js,火球效果",
+                            "description": "火球效果"
+                        }
+                    },
+                    {
+                        "id": "blobShader",
+                        "name": "一团揉动",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/blobShader.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/blobShader.jpg"
+                    },
+                    {
+                        "id": "warnInfo",
+                        "name": "警告信息",
+                        "author": "yjsdszz",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/warnInfo.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/warnInfo.jpg",
+                        "meta": {
+                            "title": "警告信息",
+                            "keywords": "three.js,警告信息",
+                            "description": "使用three.js 制作警告信息"
+                        }
+                    },
+                    {
+                        "id": "whiteCloud",
+                        "name": "白云",
+                        "author": "yjsdszz",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/whiteCloud.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/whiteCloud.jpg",
+                        "meta": {
+                            "title": "白云",
+                            "keywords": "three.js,白云",
+                            "description": "使用three.js白云"
+                        }
+                    },
+                    {
+                        "id": "waterSky",
+                        "name": "水天一色",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/waterSky.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/waterSky.jpg",
+                        "meta": {
+                            "title": "水天一色",
+                            "keywords": "three.js,水天一色",
+                            "description": "使用three.js水天一色"
+                        }
+                    },
+                    {
+                        "id": "darkClouds",
+                        "name": "乌云",
+                        "author": "stonerao",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/darkClouds.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/darkClouds.jpg",
+                        "meta": {
+                            "title": "乌云",
+                            "keywords": "three.js,乌云",
+                            "description": "使用three.js乌云"
+                        }
+                    },
+                    {
+                        "id": "cellShader",
+                        "name": "细胞",
+                        "author": "stonerao",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/cellShader.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/cellShader.jpg"
+                    },
+                    {
+                        "id": "mushroom",
+                        "name": "蘑菇",
+                        "author": "bubinyang",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/mushroom.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/mushroom.jpg"
+                    },
+                    {
+                        "id": "mosaicShader",
+                        "name": "马赛克",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/mosaicShader.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/mosaicShader.jpg"
+                    },
+                    {
+                        "id": "shader_planet",
+                        "name": "着色器行星",
+                        "author": "nico",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/shader_planet.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/shader_planet.jpg",
+                        "inject": {
+                            "importmap": {
+                                "three_noise": "http://127.0.0.1:5500/js/wasm/three_noise.js"
+                            }
+                        }
+                    },
+                    {
+                        "id": "contour",
+                        "name": "魔幻山体",
+                        "author": "nico",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/shader/contour.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/shader/contour.jpg"
+                    }
+                ]
+            },
+            {
+                "gid": "effectGroup",
+                "pid": "particle",
+                "name": "粒子",
+                "children": [
+                    {
+                        "id": "z2586300277",
+                        "name": "优雅永不过时",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/particle/z2586300277.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/particle/z2586300277.jpg"
+                    },
+                    {
+                        "id": "RandomParticle",
+                        "name": "随机粒子效果",
+                        "author": "giser2017",
+                        "htmlUrl": "http://127.0.0.1:5500/threeExamples/particle/RandomParticle.html",
+                        "image": "http://127.0.0.1:5500/threeExamples/particle/RandomParticle.jpg",
+                        "meta": {
+                            "title": "随机粒子效果",
+                            "keywords": "three.js,随机粒子效果",
+                            "description": "随机粒子效果"
+                        }
+                    },
+                    {
+                        "id": "PlanetParticle",
+                        "name": "粒子效果的行星",
+                        "author": "giser2017",
+                        "htmlUrl": "http://127.0.0.1:5500/threeExamples/particle/PlanetParticle.html",
+                        "image": "http://127.0.0.1:5500/threeExamples/particle/PlanetParticle.jpg",
+                        "meta": {
+                            "title": "粒子效果的行星",
+                            "keywords": "three.js,粒子效果的行星",
+                            "description": "粒子效果的行星"
+                        }
+                    },
+                    {
+                        "id": "bubble",
+                        "name": "粒子泡泡",
+                        "author": "huan_meng_hai_yan",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/particle/bubble.js",
+                        "image": "https://z2586300277.github.io/3d-file-server/images/four/bubble.png",
+                        "meta": {
+                            "title": "粒子泡泡",
+                            "keywords": "three.js,粒子泡泡",
+                            "description": "粒子泡泡"
+                        }
+                    },
+                    {
+                        "id": "particleScattered",
+                        "name": "粒子聚散",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/particle/particleScattered.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/particle/particleScattered.jpg",
+                        "meta": {
+                            "title": "粒子聚散",
+                            "keywords": "three.js,粒子聚散",
+                            "description": "使用three.js粒子聚散"
+                        }
+                    },
+                    {
+                        "id": "downSnow",
+                        "name": "下雪",
+                        "author": "yjsdszz",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/particle/downSnow.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/particle/downSnow.jpg",
+                        "meta": {
+                            "title": "下雪",
+                            "keywords": "three.js,下雪",
+                            "description": "使用three.js下雪"
+                        }
+                    },
+                    {
+                        "id": "galaxyStar",
+                        "name": "星系",
+                        "author": "kavalcio",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/particle/galaxyStar.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/particle/galaxyStar.jpg",
+                        "meta": {
+                            "title": "星系",
+                            "keywords": "three.js,星系",
+                            "description": "使用three.js星系"
+                        }
+                    },
+                    {
+                        "id": "pointsEarth",
+                        "name": "粒子地球",
+                        "author": "giser2017",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/particle/pointsEarth.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/particle/pointsEarth.jpg",
+                        "meta": {
+                            "title": "粒子地球",
+                            "keywords": "three.js,粒子地球",
+                            "description": "使用three.js粒子地球"
+                        }
+                    },
+                    {
+                        "id": "waveParticleShader",
+                        "name": "波浪粒子",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/particle/waveParticleShader.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/particle/waveParticleShader.jpg"
+                    },
+                    {
+                        "id": "particleLine",
+                        "name": "粒子线条",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/particle/particleLine.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/particle/particleLine.jpg"
+                    }
+                ]
+            },
+            {
+                "pid": "application",
+                "name": "应用场景",
+                "children": [
+                    {
+                        "id": "z2586300277",
+                        "name": "优雅永不过时",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/application/z2586300277.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/application/z2586300277.jpg"
+                    },
+                    {
+                        "id": "magicCircle",
+                        "name": "魔法阵",
+                        "author": "gitee18247670551",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/application/magicCircle.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/application/magicCircle.jpg",
+                        "meta": {
+                            "title": "魔法阵",
+                            "keywords": "three.js,魔法阵",
+                            "description": "使用three.js魔法阵"
+                        }
+                    },
+                    {
+                        "id": "codeCloud",
+                        "name": "代码云",
+                        "author": "yiiiiiiqianyao",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/application/codeCloud.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/application/codeCloud.jpg",
+                        "meta": {
+                            "title": "代码云",
+                            "keywords": "three.js,代码云",
+                            "description": "使用three.js代码云"
+                        }
+                    },
+                    {
+                        "id": "flyLine",
+                        "name": "飞线效果",
+                        "author": "ecojust",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/application/flyLine.js",
+                        "image": "https://z2586300277.github.io/3d-file-server/threeExamples/application/flyLine/colorful.jpg",
+                        "meta": {
+                            "title": "飞线效果",
+                            "keywords": "three.js,飞线效果",
+                            "description": "使用three.js飞线效果"
+                        }
+                    },
+                    {
+                        "id": "pipeFlow",
+                        "name": "管道流动",
+                        "author": "gitee18247670551",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/application/pipeFlow.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/application/pipeFlow.jpg",
+                        "meta": {
+                            "title": "管道流动",
+                            "keywords": "three.js,管道流动",
+                            "description": "使用three.js管道流动"
+                        }
+                    },
+                    {
+                        "id": "spriteText",
+                        "name": "精灵文字",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/application/spriteText.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/application/spriteText.jpg",
+                        "meta": {
+                            "title": "精灵文字",
+                            "keywords": "three.js,精灵文字",
+                            "description": "使用three.js精灵文字"
+                        }
+                    },
+                    {
+                        "id": "diffuseLine",
+                        "name": "发散飞线",
+                        "author": "stonerao",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/application/diffuseLine.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/application/diffuseLine.jpg",
+                        "meta": {
+                            "title": "发散飞线",
+                            "keywords": "three.js,发散飞线",
+                            "description": "使用three.js发散飞线"
+                        }
+                    },
+                    {
+                        "id": "smokeAir",
+                        "name": "烟雾效果",
+                        "author": "yjsdszz",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/application/smokeAir.js",
+                        "image": "https://z2586300277.github.io/3d-file-server/threeExamples/application/smokeAir.jpg",
+                        "meta": {
+                            "title": "烟雾效果",
+                            "keywords": "three.js,烟雾效果",
+                            "description": "使用three.js烟雾效果"
+                        }
+                    },
+                    {
+                        "id": "topology",
+                        "name": "简单3d拓扑图",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/application/topology.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/application/topology.jpg",
+                        "meta": {
+                            "title": "3d拓扑图",
+                            "keywords": "three.js,3d拓扑图",
+                            "description": "使用three.js制作3d拓扑图"
+                        }
+                    },
+                    {
+                        "id": "pieCharts",
+                        "name": "3D饼图",
+                        "author": "superzay",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/application/pieCharts.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/application/pieCharts.jpg",
+                        "meta": {
+                            "title": "3D饼图",
+                            "keywords": "three.js,3D饼图",
+                            "description": "使用three.js制作3D饼图"
+                        }
+                    },
+                    {
+                        "id": "drawFace",
+                        "name": "绘制面",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/application/drawFace.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/application/drawFace.jpg"
+                    },
+                    {
+                        "id": "drawFace_improve",
+                        "name": "绘制面_内置点",
+                        "author": "nico",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/application/draw_face_improve.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/application/draw_face_improve.jpg"
+                    },
+                    {
+                        "id": "model_navigation",
+                        "name": "模型导航",
+                        "author": "nico",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/application/nav.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/application/nav.jpg",
+                        "inject": {
+                            "importmap": {
+                                "@recast-navigation/three": "https://z2586300277.github.io/3d-file-server/js/@recast-navigation/three/dist/index.mjs",
+                                "@recast-navigation/core": "https://z2586300277.github.io/3d-file-server/js/@recast-navigation/core/dist/index.mjs",
+                                "@recast-navigation/wasm": "https://z2586300277.github.io/3d-file-server/js/@recast-navigation/wasm/dist/recast-navigation.wasm-compat.js",
+                                "@recast-navigation/generators": "https://z2586300277.github.io/3d-file-server/js/@recast-navigation/generators/dist/index.mjs",
+                                "three.path": "https://z2586300277.github.io/3d-file-server/js/three.path.module.js"
+                            }
+                        },
+                        "meta": {
+                            "title": "模型导航",
+                            "keywords": "three.js,模型导航",
+                            "description": "模型导航"
+                        }
+                    },
+                    {
+                        "id": "terrain",
+                        "name": "程序化地形生成",
+                        "author": "nico",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/application/generate_terrain.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/application/generate_terrain.jpg",
+                        "meta": {
+                            "title": "程序化地形生成",
+                            "keywords": "three.js,程序化地形生成",
+                            "description": "程序化地形生成"
+                        }
+                    },
+                    {
+                        "id": "lineMeasure",
+                        "name": "测量",
+                        "author": "yjsdszz",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/application/lineMeasure.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/application/lineMeasure.jpg"
+                    },
+                    {
+                        "id": "textSphere",
+                        "name": "球体文字",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/application/textSphere.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/application/textSphere.jpg",
+                        "meta": {
+                            "title": "球体文字",
+                            "keywords": "three.js,球体文字",
+                            "description": "使用three球体文字"
+                        }
+                    },
+                    {
+                        "id": "matrixOperation",
+                        "name": "矩阵操作",
+                        "author": "alwxkxk",
+                        "htmlUrl": "http://127.0.0.1:5500/threeExamples/application/matrixOperation.html",
+                        "image": "http://127.0.0.1:5500/threeExamples/application/matrixOperation.jpg",
+                        "meta": {
+                            "title": "矩阵操作",
+                            "keywords": "three.js,矩阵操作",
+                            "description": "矩阵操作"
+                        }
+                    },
+                    {
+                        "id": "coffeeMug",
+                        "name": "咖啡",
+                        "author": "kavalcio",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/application/coffeeMug.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/application/coffeeMug.jpg",
+                        "meta": {
+                            "title": "咖啡",
+                            "keywords": "three.js,咖啡",
+                            "description": "咖啡"
+                        }
+                    },
+                    {
+                        "id": "lightBar",
+                        "name": "光柱",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/application/lightBar.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/application/lightBar.jpg"
+                    },
+                    {
+                        "id": "flowerRain",
+                        "name": "花瓣雨",
+                        "author": "QuarkGluonPlasma",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/application/flowerRain.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/application/flowerRain.jpg",
+                        "meta": {
+                            "title": "花瓣雨",
+                            "keywords": "three.js,花瓣雨",
+                            "description": "花瓣雨"
+                        }
+                    },
+                    {
+                        "id": "houseScene",
+                        "name": "第一人称房屋",
+                        "author": "QuarkGluonPlasma",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/application/houseScene.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/application/houseScene.jpg",
+                        "meta": {
+                            "title": "第一人称房屋",
+                            "keywords": "three.js,第一人称房屋",
+                            "description": "第一人称房屋"
+                        }
+                    },
+                    {
+                        "id": "3DCircle",
+                        "name": "扩散半球",
+                        "author": "giser2017",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/application/3DCircle.js",
+                        "image": "https://z2586300277.github.io/3d-file-server/images/four/3DCircle.png",
+                        "meta": {
+                            "title": "扩散半球",
+                            "keywords": "three.js,扩散半球",
+                            "description": "扩散半球"
+                        }
+                    },
+                    {
+                        "id": "happyNewYear",
+                        "name": "新年快乐",
+                        "author": "yjsdszz",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/application/happyNewYear.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/application/happyNewYear.jpg",
+                        "meta": {
+                            "title": "新年快乐",
+                            "keywords": "three.js,新年快乐",
+                            "description": "新年快乐"
+                        }
+                    },
+                    {
+                        "id": "windMove",
+                        "name": "风吹动画",
+                        "author": "yjsdszz",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/application/windMove.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/application/windMove.jpg",
+                        "meta": {
+                            "title": "风吹动画",
+                            "keywords": "three.js,风吹动画",
+                            "description": "风吹动画"
+                        }
+                    },
+                    {
+                        "id": "gsapCollection",
+                        "name": "动画合集",
+                        "tag": "动画",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/application/gsapCollection.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/application/gsapCollection.jpg"
+                    }
+                ]
+            },
+            {
+                "pid": "animation",
+                "name": "动画效果",
+                "children": [
+                    {
+                        "id": "clipAnimation",
+                        "name": "裁剪动画",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/animation/clipAnimation.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/animation/clipAnimation.jpg"
+                    }
+                ]
+            },
+            {
+                "pid": "physics",
+                "name": "物理应用",
+                "children": [
+                    {
+                        "id": "threeForce",
+                        "name": "力导向图",
+                        "author": "vasturiano",
+                        "openUrl": "https://vasturiano.github.io/3d-force-graph/example/large-graph/",
+                        "githubUrl": "https://github.com/vasturiano/3d-force-graph",
+                        "image": "http://127.0.0.1:5500/threeExamples/physics/threeForce.jpg"
+                    },
+                    {
+                        "id": "physicsMesh",
+                        "name": "物理cannon使用",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/physics/physicsMesh.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/physics/physicsMesh.jpg"
+                    }
+                ]
+            },
+            {
+                "pid": "expand",
+                "name": "扩展功能",
+                "children": [
+                    {
+                        "id": "loadTiles",
+                        "name": "加载3dtiles",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/expand/loadTiles.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/expand/loadTiles.jpg",
+                        "inject": {
+                            "importmap": {
+                                "3d-tiles-renderer": "https://z2586300277.github.io/3d-file-server/js/3dTilesRenderer/index.js"
+                            }
+                        },
+                        "meta": {
+                            "title": "three加载3dtiles",
+                            "keywords": "three.js,3dtiles",
+                            "description": "使用three加载3dtiles"
+                        }
+                    },
+                    {
+                        "id": "map3d",
+                        "name": "3D地图",
+                        "author": "z2586300277",
+                        "codeUrl": "https://g2657.github.io/examples-server/three/test/map3d.js",
+                        "image": "https://g2657.github.io/examples-server/three/test/map3d.jpg",
+                        "meta": {
+                            "title": "3D地图",
+                            "keywords": "three.js,3D地图",
+                            "description": "使用three.js制作3D地图"
+                        }
+                    },
+                    {
+                        "id": "geoBorder",
+                        "name": "地理边界",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/expand/geoBorder.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/expand/geoBorder.jpg"
+                    },
+                    {
+                        "id": "heatmap3D",
+                        "name": "3D热力图",
+                        "tag": "常用-#e1d100",
+                        "author": "z2586300277",
+                        "referUrl": "https://github.com/treasureMoment/heatmap-three.js",
+                        "githubUrl": "https://github.com/treasureMoment/heatmap-three.js",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/expand/heatmap3D.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/expand/heatmap3D.jpg",
+                        "meta": {
+                            "title": "3D热力图",
+                            "keywords": "three.js,3D热力图",
+                            "description": "使用three.js制作3D热力图"
+                        },
+                        "inject": {
+                            "src": [
+                                "http://127.0.0.1:5500/js/heatmap.js"
+                            ]
+                        }
+                    },
+                    {
+                        "id": "heatmapModel",
+                        "name": "模型热力图",
+                        "author": "z2586300277",
+                        "referUrl": "https://github.com/CHENJIAMIAN/InterpolatedGradientMaterial",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/expand/heatmapModel.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/expand/heatmapModel.jpg"
+                    },
+                    {
+                        "id": "modelBlendReflector",
+                        "name": "模型反射效果",
+                        "tag": "模型反射--14",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/expand/modelBlendReflector.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/expand/modelBlendReflector.jpg"
+                    },
+                    {
+                        "id": "multWindowScene",
+                        "name": "多浏览器窗口连接",
+                        "author": "z2586300277",
+                        "referUrl": "https://github.com/bgstaal/multipleWindow3dScene",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/expand/multWindowScene.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/expand/multWindowScene.jpg"
+                    }
+                ]
+            },
+            {
+                "pid": "effectComposer",
+                "name": "后期处理",
+                "children": [
+                    {
+                        "id": "selectBloomPass",
+                        "name": "辉光-postprocessing",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/effectComposer/selectBloomPass.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/effectComposer/selectBloomPass.jpg",
+                        "meta": {
+                            "title": "辉光通道",
+                            "keywords": "three.js,辉光通道",
+                            "description": "使用three.js辉光通道"
+                        }
+                    },
+                    {
+                        "id": "customMaskPass",
+                        "name": "自定义遮罩通道",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/effectComposer/customMaskPass.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/effectComposer/customMaskPass.jpg",
+                        "meta": {
+                            "title": "自定义遮罩通道",
+                            "keywords": "three.js,自定义遮罩通道",
+                            "description": "使用three.js自定义遮罩通道"
+                        }
+                    },
+                    {
+                        "id": "uvTransformation",
+                        "name": "UV图像变换",
+                        "author": "giser2017",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/effectComposer/uvTransformation.js",
+                        "image": "https://z2586300277.github.io/3d-file-server/images/four/uvTransformation.png",
+                        "meta": {
+                            "title": "UV图像变换",
+                            "keywords": "three.js,UV图像变换",
+                            "description": "UV图像变换"
+                        }
+                    },
+                    {
+                        "id": "EdgeBlurringEffect",
+                        "name": "边缘模糊效果",
+                        "author": "giser2017",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/effectComposer/EdgeBlurringEffect.js",
+                        "image": "https://z2586300277.github.io/3d-file-server/images/four/EdgeBlurringEffect.png",
+                        "meta": {
+                            "title": "边缘模糊效果",
+                            "keywords": "three.js,边缘模糊效果",
+                            "description": "边缘模糊效果"
+                        }
+                    },
+                    {
+                        "id": "threeSelectBloom",
+                        "name": "官方选择辉光简化版",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/effectComposer/threeSelectBloom.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/effectComposer/threeSelectBloom.jpg",
+                        "meta": {
+                            "title": "官方选择辉光简化版",
+                            "keywords": "three.js,官方选择辉光简化版",
+                            "description": "使用three.js官方选择辉光简化版"
+                        }
+                    }
+                ]
+            },
+            {
+                "gid": "generalGroup",
+                "group": "常规案例",
+                "pid": "basic",
+                "name": "基础案例",
+                "children": [
+                    {
+                        "id": "modelLoad",
+                        "name": "gltf/fbx/obj模型加载",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/modelLoad.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/modelLoad.jpg",
+                        "meta": {
+                            "title": "模型加载",
+                            "keywords": "three.js,模型加载",
+                            "description": "使用three.js模型加载"
+                        }
+                    },
+                    {
+                        "id": "gltfOptLoader",
+                        "name": "Opt解压(su7 模型)",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/gltfOptLoader.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/gltfOptLoader.jpg"
+                    },
+                    {
+                        "id": "loadingAnimate",
+                        "name": "加载动画",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/loadingAnimate.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/loadingAnimate.jpg"
+                    },
+                    {
+                        "id": "outlinePass",
+                        "name": "轮廓光",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/outlinePass.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/outlinePass.jpg",
+                        "meta": {
+                            "title": "轮廓光",
+                            "keywords": "three.js,轮廓光",
+                            "description": "使用three轮廓光"
+                        }
+                    },
+                    {
+                        "id": "gradientTriangle",
+                        "name": "渐变三角形",
+                        "author": "giser2017",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/gradientTriangle.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/gradientTriangle.jpg",
+                        "meta": {
+                            "title": "渐变三角形",
+                            "keywords": "three.js,渐变三角形",
+                            "description": "使用three.js渐变三角形"
+                        }
+                    },
+                    {
+                        "id": "modelUnpack",
+                        "name": "模型拆解动画",
+                        "tag": "拆解",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/modelUnpack.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/modelUnpack.jpg"
+                    },
+                    {
+                        "id": "skyAndEnv",
+                        "name": "天空盒",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/skyAndEnv.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/skyAndEnv.jpg",
+                        "meta": {
+                            "title": "天空盒",
+                            "keywords": "three.js,天空盒",
+                            "description": "使用three.js天空盒"
+                        }
+                    },
+                    {
+                        "id": "modelAnimates",
+                        "name": "单/多模型动画",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/modelAnimates.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/modelAnimates.jpg",
+                        "meta": {
+                            "title": "模型自带动画",
+                            "keywords": "three.js,模型自带动画",
+                            "description": "使用three播放模型自带动画"
+                        }
+                    },
+                    {
+                        "id": "gsapAnimate",
+                        "name": "GSAP动画",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/gsapAnimate.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/gsapAnimate.jpg",
+                        "meta": {
+                            "title": "GSAP动画",
+                            "keywords": "three.js,GSAP动画",
+                            "description": "使用three.js GSAP动画"
+                        }
+                    },
+                    {
+                        "id": "modelView",
+                        "name": "模型视图",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/modelView.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/modelView.jpg"
+                    },
+                    {
+                        "id": "cssElement",
+                        "name": "CSS元素",
+                        "tag": "DOM",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/cssElement.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/cssElement.jpg",
+                        "meta": {
+                            "title": "CSS元素",
+                            "keywords": "three.js,CSS元素",
+                            "description": "使用three.js CSS元素"
+                        }
+                    },
+                    {
+                        "id": "curveAnimate",
+                        "name": "曲线动画",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/curveAnimate.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/curveAnimate.jpg",
+                        "meta": {
+                            "title": "曲线动画",
+                            "keywords": "three.js,曲线动画",
+                            "description": "使用three.js曲线动画"
+                        }
+                    },
+                    {
+                        "id": "transformAnimate",
+                        "name": "Mesh变换动画",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/transformAnimate.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/transformAnimate.jpg",
+                        "meta": {
+                            "title": "变换动画",
+                            "keywords": "three.js,变换动画",
+                            "description": "使用three.js变换动画"
+                        }
+                    },
+                    {
+                        "id": "screenShot",
+                        "name": "截图",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/screenShot.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/screenShot.jpg",
+                        "meta": {
+                            "title": "截图",
+                            "keywords": "three.js,截图",
+                            "description": "使用three.js截图"
+                        }
+                    },
+                    {
+                        "id": "skeletonBone",
+                        "name": "骨骼动画",
+                        "author": "yjsdszz",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/skeletonBone.js",
+                        "image": "https://z2586300277.github.io/3d-file-server/threeExamples/basic/skeletonBone.jpg",
+                        "meta": {
+                            "title": "骨骼动画",
+                            "keywords": "three.js,骨骼动画",
+                            "description": "使用three.js骨骼动画"
+                        }
+                    }
+                ]
+            },
+            {
+                "gid": "generalGroup",
+                "group": "常规案例",
+                "pid": "introduction",
+                "name": "入门案例",
+                "children": [
+                    {
+                        "id": "入门",
+                        "name": "入门",
+                        "author": "jiawanlong",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/入门.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/入门.png",
+                        "meta": {
+                            "title": "入门",
+                            "keywords": "three.js,入门",
+                            "description": "使用three.js入门"
+                        }
+                    },
+                    {
+                        "id": "辅助线",
+                        "name": "辅助线",
+                        "author": "jiawanlong",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/辅助线.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/辅助线.png",
+                        "meta": {
+                            "title": "辅助线",
+                            "keywords": "three.js,辅助线",
+                            "description": "使用three.js辅助线"
+                        }
+                    },
+                    {
+                        "id": "光线",
+                        "name": "光线",
+                        "author": "jiawanlong",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/光线.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/光线.png",
+                        "meta": {
+                            "title": "光线",
+                            "keywords": "three.js,光线",
+                            "description": "使用three.js光线"
+                        }
+                    },
+                    {
+                        "id": "相机控件",
+                        "name": "相机控件",
+                        "author": "jiawanlong",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/相机控件.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/相机控件.png",
+                        "meta": {
+                            "title": "相机控件",
+                            "keywords": "three.js,相机控件",
+                            "description": "使用three.js相机控件"
+                        }
+                    },
+                    {
+                        "id": "动画",
+                        "name": "动画",
+                        "author": "jiawanlong",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/动画.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/动画.png",
+                        "meta": {
+                            "title": "动画",
+                            "keywords": "three.js,动画",
+                            "description": "使用three.js动画"
+                        }
+                    },
+                    {
+                        "id": "全屏",
+                        "name": "全屏",
+                        "author": "jiawanlong",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/全屏.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/全屏.png",
+                        "meta": {
+                            "title": "全屏",
+                            "keywords": "three.js,全屏",
+                            "description": "使用three.js全屏"
+                        }
+                    },
+                    {
+                        "id": "帧率",
+                        "name": "帧率",
+                        "author": "jiawanlong",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/帧率.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/帧率.jpg",
+                        "meta": {
+                            "title": "帧率",
+                            "keywords": "three.js,帧率",
+                            "description": "使用three.js帧率"
+                        }
+                    },
+                    {
+                        "id": "阵列模型",
+                        "name": "阵列模型",
+                        "author": "jiawanlong",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/阵列模型.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/阵列模型.jpg",
+                        "meta": {
+                            "title": "阵列模型",
+                            "keywords": "three.js,阵列模型",
+                            "description": "使用three.js阵列模型"
+                        }
+                    },
+                    {
+                        "id": "几何体",
+                        "name": "几何体",
+                        "author": "jiawanlong",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/几何体.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/几何体.jpg",
+                        "meta": {
+                            "title": "几何体",
+                            "keywords": "three.js,几何体",
+                            "description": "使用three.js几何体"
+                        }
+                    },
+                    {
+                        "id": "点线",
+                        "name": "点、线",
+                        "name_en": "点、线",
+                        "author": "jiawanlong",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/点线.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/点、线.png",
+                        "meta": {
+                            "title": "点、线",
+                            "keywords": "three.js,点线",
+                            "description": "使用three.js点、线"
+                        }
+                    },
+                    {
+                        "id": "网格",
+                        "name": "网格",
+                        "name_en": "网格",
+                        "author": "jiawanlong",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/网格.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/网格.png",
+                        "meta": {
+                            "title": "网格",
+                            "keywords": "three.js,网格",
+                            "description": "使用three.js网格"
+                        }
+                    },
+                    {
+                        "id": "索引",
+                        "name": "索引",
+                        "name_en": "索引",
+                        "author": "jiawanlong",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/索引.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/索引.png",
+                        "meta": {
+                            "title": "索引",
+                            "keywords": "three.js,索引",
+                            "description": "使用three.js索引"
+                        }
+                    },
+                    {
+                        "id": "旋转缩放平移几何体",
+                        "name": "旋转、缩放、平移几何体",
+                        "name_en": "旋转、缩放、平移几何体",
+                        "author": "jiawanlong",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/旋转、缩放、平移几何体.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/旋转、缩放、平移几何体.jpg",
+                        "meta": {
+                            "title": "旋转、缩放、平移几何体",
+                            "keywords": "three.js,旋转缩放平移几何体",
+                            "description": "使用three.js旋转、缩放、平移几何体"
+                        }
+                    },
+                    {
+                        "id": "自带几何体顶点",
+                        "name": "自带几何体顶点",
+                        "name_en": "自带几何体顶点",
+                        "author": "jiawanlong",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/自带几何体顶点.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/自带几何体顶点.png",
+                        "meta": {
+                            "title": "自带几何体顶点",
+                            "keywords": "three.js,自带几何体顶点",
+                            "description": "使用three.js自带几何体顶点"
+                        }
+                    },
+                    {
+                        "id": "顶点颜色",
+                        "name": "顶点颜色",
+                        "name_en": "顶点颜色",
+                        "author": "jiawanlong",
+                        "codeUrl": "http://127.0.0.1:5500/threeExamples/basic/顶点颜色.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/basic/顶点颜色.jpg",
+                        "meta": {
+                            "title": "顶点颜色",
+                            "keywords": "three.js,顶点颜色",
+                            "description": "使用three.js顶点颜色"
+                        }
+                    }
+                ]
+            },
+            {
+                "pid": "tools",
+                "name": "相关工具",
+                "children": [
+                    {
+                        "id": "sketchfab_model",
+                        "name": "sketchfab免费模型",
+                        "author": "z2586300277",
+                        "openUrl": "https://sketchfab.com/",
+                        "image": "http://127.0.0.1:5500/threeExamples/tools/sketchfab.jpg"
+                    },
+                    {
+                        "id": "shaderToy",
+                        "name": "开源shader社区",
+                        "author": "z2586300277",
+                        "openUrl": "https://www.shadertoy.com/",
+                        "image": "https://z2586300277.github.io/3d-file-server/images/shaderToy.jpg"
+                    },
+                    {
+                        "id": "skyBox_image",
+                        "name": "免费hdr全景图资源",
+                        "author": "z2586300277",
+                        "openUrl": "https://polyhaven.com/hdris/skies",
+                        "image": "http://127.0.0.1:5500/threeExamples/tools/skyBox_image.jpg"
+                    },
+                    {
+                        "id": "gltf_report",
+                        "name": "gltf在线draco压缩工具",
+                        "author": "donmccurdy",
+                        "openUrl": "https://gltf.report/",
+                        "image": "http://127.0.0.1:5500/threeExamples/tools/gltf_report.jpg"
+                    },
+                    {
+                        "id": "skyBox_Make",
+                        "name": "hdr制作天空盒",
+                        "author": "matheowis",
+                        "openUrl": "https://matheowis.github.io/HDRI-to-CubeMap/",
+                        "githubUrl": "https://github.com/matheowis/HDRI-to-CubeMap",
+                        "image": "http://127.0.0.1:5500/threeExamples/tools/skyBox_Make.jpg"
+                    },
+                    {
+                        "id": "make_json_font",
+                        "name": "字体转Three使用json字体",
+                        "author": "gero3",
+                        "openUrl": "https://gero3.github.io/facetype.js/",
+                        "githubUrl": "https://github.com/gero3/facetype.js",
+                        "image": "http://127.0.0.1:5500/threeExamples/tools/make_json_font.jpg"
+                    },
+                    {
+                        "id": "shaderWebgl",
+                        "name": "Webgl直接可用Shader",
+                        "author": "mrdoob",
+                        "openUrl": "https://glslsandbox.com/",
+                        "githubUrl": "https://github.com/mrdoob/glsl-sandbox",
+                        "image": "https://z2586300277.github.io/3d-file-server/images/shaderWebgl.jpg"
+                    },
+                    {
+                        "id": "shaderEditor",
+                        "name": "Shader编辑器",
+                        "author": "patriciogonzalezvivo",
+                        "openUrl": "https://editor.thebookofshaders.com/",
+                        "githubUrl": "https://github.com/patriciogonzalezvivo/glslEditor",
+                        "image": "https://z2586300277.github.io/3d-file-server/images/shaderEditor.jpg"
+                    }
+                ]
+            }
+        ],
+        "inject": {
+            "importmap": {
+                "three": "https://threejs.org/build/three.module.min.js",
+                "three/addons/": "https://threejs.org/examples/jsm/",
+                "three/examples/jsm/": "https://threejs.org/examples/jsm/",
+                "gsap": "https://z2586300277.github.io/3d-file-server/js/gsap/index.js",
+                "postprocessing": "http://127.0.0.1:5500/js/postprocessing.js",
+                "cannon-es": "http://127.0.0.1:5500/js/cannon-es.js",
+                "dat.gui": "http://127.0.0.1:5500/js/dat.gui.module.js",
+                "@tweenjs/tween.js": "http://127.0.0.1:5500/js/tween.esm.js"
+            }
+        }
+    },
+    {
+        "name": "CesiumJS",
+        "label": "Cesium.js案例",
+        "examples": [
+            {
+                "pid": "layer",
+                "name": "在线地图",
+                "children": [
+                    {
+                        "id": "defaultLayer",
+                        "name": "默认图层",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/layer/defaultLayer.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/layer/defaultLayer.jpg",
+                        "meta": {
+                            "title": "默认图层",
+                            "keywords": "cesium.js,默认图层",
+                            "description": "cesium默认图层"
+                        }
+                    },
+                    {
+                        "id": "coordLayer",
+                        "name": "坐标参考",
+                        "author": "giser2017",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/layer/coordLayer.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/layer/coord.jpg",
+                        "meta": {
+                            "title": "坐标参考",
+                            "keywords": "cesium.js,坐标参考",
+                            "description": "坐标参考"
+                        }
+                    },
+                    {
+                        "id": "baiduLayer",
+                        "name": "百度图层",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/layer/baiduLayer.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/layer/baiduLayer.jpg",
+                        "meta": {
+                            "title": "百度图层",
+                            "keywords": "cesium.js,百度图层",
+                            "description": "cesium百度图层"
+                        }
+                    },
+                    {
+                        "id": "arcgisLayer",
+                        "name": "arcgis图层",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/layer/arcgisLayer.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/layer/arcgisLayer.jpg",
+                        "meta": {
+                            "title": "arcgis图层",
+                            "keywords": "cesium.js,arcgis图层",
+                            "description": "cesium arcgis图层"
+                        }
+                    },
+                    {
+                        "id": "gaodeLayer",
+                        "name": "高德图层",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/layer/gaodeLayer.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/layer/gaodeLayer.jpg",
+                        "meta": {
+                            "title": "高德图层",
+                            "keywords": "cesium.js,高德图层",
+                            "description": "cesium 高德图层"
+                        }
+                    },
+                    {
+                        "id": "mapfilterLayer",
+                        "name": "地图滤镜",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/layer/mapfilterLayer.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/layer/mapfilterLayer.jpg",
+                        "meta": {
+                            "title": "地图滤镜",
+                            "keywords": "cesium.js,地图滤镜",
+                            "description": "cesium 地图滤镜"
+                        }
+                    },
+                    {
+                        "id": "tiandituLayer",
+                        "name": "天地图",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/layer/tiandituLayer.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/layer/tiandituLayer.jpg",
+                        "meta": {
+                            "title": "天地图",
+                            "keywords": "cesium.js,天地图",
+                            "description": "cesium 天地图"
+                        }
+                    },
+                    {
+                        "id": "xyz",
+                        "name": "OGC- xyz服务",
+                        "author": "jiawanlong",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/layer/xyz.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/layer/xyz.jpg",
+                        "meta": {
+                            "title": "xyz服务",
+                            "keywords": "cesium.js,影像",
+                            "description": "xyz服务"
+                        }
+                    },
+                    {
+                        "id": "tms",
+                        "name": "OGC- tms服务",
+                        "author": "jiawanlong",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/layer/tms.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/layer/tms.jpg",
+                        "meta": {
+                            "title": "tms服务",
+                            "keywords": "cesium.js,影像",
+                            "description": "tms服务"
+                        }
+                    },
+                    {
+                        "id": "wms",
+                        "name": "OGC- wms服务",
+                        "author": "jiawanlong",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/layer/wms.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/layer/wms.jpg",
+                        "meta": {
+                            "title": "wms服务",
+                            "keywords": "cesium.js,影像",
+                            "description": "wms服务"
+                        }
+                    },
+                    {
+                        "id": "wmts",
+                        "name": "OGC- wmts服务",
+                        "author": "jiawanlong",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/layer/wmts.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/layer/wmts.jpg",
+                        "meta": {
+                            "title": "wmts服务",
+                            "keywords": "cesium.js,影像",
+                            "description": "wmts服务"
+                        }
+                    },
+                    {
+                        "id": "terrainLayer",
+                        "name": "地形",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/layer/terrainLayer.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/layer/terrainLayer.jpg",
+                        "meta": {
+                            "title": "地形",
+                            "keywords": "cesium.js,地形",
+                            "description": "cesium 地形"
+                        }
+                    }
+                ]
+            },
+            {
+                "pid": "offline",
+                "name": "离线地图",
+                "children": [
+                    {
+                        "id": "offlineBlue",
+                        "name": "蓝色",
+                        "author": "giser2017",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/offline/blue.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/offline/blue.jpg",
+                        "meta": {
+                            "title": "蓝色",
+                            "keywords": "cesium.js,蓝色",
+                            "description": "蓝色"
+                        }
+                    },
+                    {
+                        "id": "day",
+                        "name": "夜间",
+                        "author": "giser2017",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/offline/day.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/offline/day.jpg",
+                        "meta": {
+                            "title": "夜间",
+                            "keywords": "cesium.js,夜间",
+                            "description": "夜间"
+                        }
+                    },
+                    {
+                        "id": "img",
+                        "name": "影像",
+                        "author": "giser2017",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/offline/img.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/offline/img.jpg",
+                        "meta": {
+                            "title": "影像",
+                            "keywords": "cesium.js,影像",
+                            "description": "影像"
+                        }
+                    },
+                    {
+                        "id": "night",
+                        "name": "夜间",
+                        "author": "jiawanlong",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/offline/night.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/offline/night.jpg",
+                        "meta": {
+                            "title": "影像",
+                            "keywords": "cesium.js,影像",
+                            "description": "夜间"
+                        }
+                    },
+                    {
+                        "id": "gaode",
+                        "name": "内网高德",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/offline/gaode.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/offline/gaode.jpg",
+                        "meta": {
+                            "title": "内网高德",
+                            "keywords": "cesium.js,内网高德",
+                            "description": "内网高德"
+                        }
+                    },
+                    {
+                        "id": "baiDu",
+                        "name": "内网百度",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/offline/baidu.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/offline/baidu.jpg",
+                        "meta": {
+                            "title": "内网百度",
+                            "keywords": "cesium.js,内网百度",
+                            "description": "内网百度"
+                        }
+                    }
+                ]
+            },
+            {
+                "pid": "basic",
+                "name": "基础功能",
+                "children": [
+                    {
+                        "id": "autoRotate",
+                        "name": "自动旋转",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/basic/autoRotate.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/layer/defaultLayer.jpg",
+                        "meta": {
+                            "title": "自动旋转",
+                            "keywords": "cesium.js,自动旋转",
+                            "description": "cesium自动旋转"
+                        }
+                    },
+                    {
+                        "id": "cesiumText",
+                        "name": "绘制文字",
+                        "author": "g2657",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/basic/cesiumText.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/layer/defaultLayer.jpg",
+                        "meta": {
+                            "title": "绘制文字",
+                            "keywords": "cesium.js,绘制文字",
+                            "description": "cesium绘制文字"
+                        }
+                    },
+                    {
+                        "id": "cssElement",
+                        "name": "css2D元素",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/basic/cssElement.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/basic/cssElement.jpg",
+                        "meta": {
+                            "title": "css2D元素",
+                            "keywords": "cesium.js,css2D元素",
+                            "description": "cesium css2D元素"
+                        }
+                    },
+                    {
+                        "id": "clickEvent",
+                        "name": "点击事件",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/basic/clickEvent.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/basic/clickEvent.jpg",
+                        "meta": {
+                            "title": "点击事件",
+                            "keywords": "cesium.js,点击事件",
+                            "description": "cesium 点击事件"
+                        }
+                    },
+                    {
+                        "id": "geojsonFace",
+                        "name": "geojson面",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/basic/geojsonFace.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/basic/geojsonFace.jpg",
+                        "meta": {
+                            "title": "geojson面",
+                            "keywords": "cesium.js,geojson面",
+                            "description": "cesium geojson面"
+                        }
+                    },
+                    {
+                        "id": "multPoint",
+                        "name": "cesium大量点",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/basic/multPoint.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/basic/multPoint.jpg",
+                        "meta": {
+                            "title": "cesium大量点",
+                            "keywords": "cesium.js,cesium大量点",
+                            "description": "cesium cesium大量点"
+                        }
+                    },
+                    {
+                        "id": "multPointCluster",
+                        "name": "cesium大量点聚合",
+                        "tag": "聚合",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/basic/multPointCluster.js",
+                        "image": "https://z2586300277.github.io/three-editor/src/codes/cesiumjs/basic/multPointCluster.jpg",
+                        "inject": {
+                            "src": [
+                                "https://z2586300277.github.io/3d-file-server/js/supercluster.min.js"
+                            ]
+                        },
+                        "meta": {
+                            "title": "cesium大量点聚合",
+                            "keywords": "cesium.js,cesium大量点聚合",
+                            "description": "cesium cesium大量点聚合"
+                        }
+                    },
+                    {
+                        "id": "multFaceLine",
+                        "name": "cesium大量面线",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/basic/multFaceLine.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/basic/multFaceLine.jpg",
+                        "meta": {
+                            "title": "cesium大量面线",
+                            "keywords": "cesium.js,cesium大量面线",
+                            "description": "cesium cesium大量面线"
+                        }
+                    },
+                    {
+                        "id": "multCurve",
+                        "name": "cesium大量曲线",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/basic/multCurve.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/basic/multCurve.jpg",
+                        "meta": {
+                            "title": "cesium大量曲线",
+                            "keywords": "cesium.js,cesium大量曲线",
+                            "description": "cesium cesium大量曲线"
+                        }
+                    },
+                    {
+                        "id": "multText",
+                        "name": "cesium大量文字",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/basic/multText.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/basic/multText.jpg",
+                        "meta": {
+                            "title": "cesium大量文字",
+                            "keywords": "cesium.js,cesium大量文字",
+                            "description": "cesium cesium大量文字"
+                        }
+                    },
+                    {
+                        "id": "multBox",
+                        "name": "cesium大量立方体",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/basic/multBox.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/basic/multBox.jpg",
+                        "meta": {
+                            "title": "cesium大量立方体",
+                            "keywords": "cesium.js,cesium大量立方体",
+                            "description": "cesium cesium大量立方体"
+                        }
+                    },
+                    {
+                        "id": "loadModel",
+                        "name": "加载模型",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/basic/loadModel.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/basic/loadModel.jpg",
+                        "meta": {
+                            "title": "加载模型",
+                            "keywords": "cesium.js,加载模型",
+                            "description": "cesium 加载模型"
+                        }
+                    },
+                    {
+                        "id": "tilesShader",
+                        "name": "智慧城市着色器",
+                        "author": "liaoqinwei",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/basic/tilesShader.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/basic/tilesShader.jpg",
+                        "meta": {
+                            "title": "智慧城市着色器",
+                            "keywords": "cesium.js,智慧城市着色器",
+                            "description": "cesium 智慧城市着色器"
+                        }
+                    },
+                    {
+                        "id": "flyLine",
+                        "name": "流动飞线运动",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/basic/flyLine.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/basic/flyLine.jpg",
+                        "meta": {
+                            "title": "流动飞线运动",
+                            "keywords": "cesium.js,流动飞线运动",
+                            "description": "cesium 流动飞线运动"
+                        }
+                    },
+                    {
+                        "id": "curvePipe",
+                        "name": "曲线管道",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/basic/curvePipe.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/basic/curvePipe.jpg"
+                    }
+                ]
+            },
+            {
+                "pid": "expand",
+                "name": "扩展功能",
+                "children": [
+                    {
+                        "id": "cesiumAndThree",
+                        "name": "cesium融合three",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/expand/cesiumAndThree.js",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/expand/cesiumAndThree.jpg",
+                        "inject": {
+                            "importmap": {
+                                "three": "https://z2586300277.github.io/3d-file-server/js/three/three.module.min.js"
+                            }
+                        },
+                        "meta": {
+                            "title": "cesium融合three",
+                            "keywords": "cesium融合three,场景,融合",
+                            "description": "使用three.js创建3D场景，cesium创建2D场景，融合在一起"
+                        }
+                    },
+                    {
+                        "id": "echartsFlyLine",
+                        "name": "echarts飞线",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/expand/echartsFlyLine.js",
+                        "image": "https://z2586300277.github.io/three-editor/src/codes/cesiumjs/basic/flyCharts.jpg",
+                        "inject": {
+                            "src": [
+                                "https://z2586300277.github.io/3d-file-server/js/echarts490.min.js"
+                            ]
+                        },
+                        "meta": {
+                            "title": "echarts飞线",
+                            "keywords": "cesium.js,echarts飞线",
+                            "description": "cesium 结合 echarts 创建美丽的动态流动飞线"
+                        }
+                    },
+                    {
+                        "id": "heatMap",
+                        "name": "热力图",
+                        "author": "z2586300277",
+                        "codeUrl": "http://127.0.0.1:5500/cesiumExamples/expand/heatMap.js",
+                        "image": "https://z2586300277.github.io/three-editor/src/codes/cesiumjs/basic/heatMap.jpg",
+                        "meta": {
+                            "title": "热力图",
+                            "keywords": "cesium.js,热力图",
+                            "description": "cesium 结合 热力图"
+                        }
+                    }
+                ]
+            },
+            {
+                "pid": "tools",
+                "name": "相关工具",
+                "children": [
+                    {
+                        "id": "mapDataConvert",
+                        "name": "地图转换工具",
+                        "author": "giser2017",
+                        "openUrl": "https://z2586300277.github.io/show-site/dgis/",
+                        "image": "http://127.0.0.1:5500/cesiumExamples/tools/mapDataConvert.jpg"
+                    }
+                ]
+            }
+        ],
+        "inject": {
+            "link": [
+                "https://z2586300277.github.io/3d-file-server/js/cesium/style.css"
+            ],
+            "src": [],
+            "importmap": {
+                "cesium": "https://z2586300277.github.io/3d-file-server/js/cesium/Cesium.js",
+                "dat.gui": "http://127.0.0.1:5500/js/dat.gui.module.js"
+            },
+            "jsHeader": "window.CESIUM_BASE_URL = \"https://z2586300277.github.io/3d-file-server/js/cesium\""
+        }
+    }
+]
