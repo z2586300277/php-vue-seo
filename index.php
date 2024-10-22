@@ -26,9 +26,10 @@ try {
     $description = htmlspecialchars($description, ENT_QUOTES);
 
     // 更新 HTML 内容
-    $html = preg_replace('/<title>.*<\/title>/', '<title>' . $title . '</title>', $html);
-    $html = preg_replace('/<meta name="keywords" content=".*" \/>/', '<meta name="keywords" content="' . $keywords . '" />', $html);
-    $html = preg_replace('/<meta name="description" content=".*" \/>/', '<meta name="description" content="' . $description . '" />', $html);
+    if ($title) $html = preg_replace('/<title>.*<\/title>/', '<title>' . $title . '</title>', $html);
+    else $html = preg_replace('/<title>.*<\/title>/', '<title>' . '开源三维' . date('Y/m/d/H') . '</title>', $html);
+    if ($keywords) $html = preg_replace('/<meta name="keywords" content=".*" \/>/', '<meta name="keywords" content="' . $keywords . '" />', $html);
+    if ($description) $html = preg_replace('/<meta name="description" content=".*" \/>/', '<meta name="description" content="' . $description . '" />', $html);
 
     // 添加结构化数据
     $structuredData = [
@@ -42,7 +43,6 @@ try {
     $html = str_replace('</head>', $structuredDataScript . '</head>', $html);
 
     echo $html;
-
 } catch (Exception $e) {
     echo $html;
 }
